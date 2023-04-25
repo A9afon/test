@@ -1,5 +1,5 @@
-print("goodbye")
-WOW("ALO")
-sorry(my bad")
+print("goodbye");
+print("WOW ALO");
+print("sorry, my bad");
 print("what you want");
 print("good evning");

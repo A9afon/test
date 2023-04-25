@@ -1,12 +1,5 @@
 print("Hello world!!!!");
 print("Hello!;")
-print("How are you;")
-print("hello my friend;")
-print("Glad to see you;")
-print("false Hello");
-print("hello my friend;")
-print("Glad to see you;")
-print("false Hello");
 print("hello my friend;")
 print("Glad to see you;")
 print("false Hello");

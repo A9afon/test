@@ -2,7 +2,4 @@ print("goodbye")
 WOW("ALO")
 sorry(my bad")
 print("what you want");
-WOW("ALO")
-sorry(my bad")
-WOW("ALO")
-sorry(my bad")
+print("good evning");

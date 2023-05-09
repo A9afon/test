@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 print("goodbye");
 print("WOW ALO");
 print("sorry, my bad");
 print("what you want");
 print("good evning");
 wrong goodbye
+=======
+print("goodbye")
+WOW("ALO")
+sorry(my bad")
+print("what you want");
+WOW("ALO")
+sorry(my bad")
+WOW("ALO")
+sorry(my bad")
+WOW("ALO")
+sorry(my bad")
+>>>>>>> 4-git-squash

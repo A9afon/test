@@ -1,7 +1,19 @@
 print("Hello world!!!!");
+<<<<<<< HEAD
 print("Hello!");
 print("hello my friend");
 print("Glad to see you");
 print("false Hello");
 print("Hello everything");
 add new title!!!
+=======
+print("Hello!;")
+print("How are you;")
+print("hello my friend;")
+print("Glad to see you;")
+print("false Hello");
+print("Glad to see you;")
+print("false Hello");
+print("Glad to see you;")
+print("false Hello");
+>>>>>>> 4-git-squash

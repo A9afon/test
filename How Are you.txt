@@ -5,3 +5,4 @@ nothing
 git merge -m "add descriiption2" main
 squash and rebase
 git merge other-branch -m "Commit Message" --no-ff
+git merge other-branch -m "Commit Message" -m "description" --no-ff

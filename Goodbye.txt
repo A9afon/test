@@ -7,3 +7,4 @@ wrong goodbye
 4to to ewe
 Git GPG key
 squash
+merge commit
